@@ -6,4 +6,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Sou uma estudante com foco em prorama
 - 🌱 **Estou aprendendo:** Programação front-end, java script
 
 ---
+## 🌐 Vamos nos Conectar!
 
+Sinta-se à vontade para me seguir ou conectar-se comigo em outras plataformas:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-rodrigues-technology/)
